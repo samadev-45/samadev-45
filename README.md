@@ -25,10 +25,7 @@
     <td align="center" width="120"><img src="./Ado.Net.webp" width="60" alt="ADO.NET"/><br>ADO.NET</td>
     <td align="center" width="120"><img src="./EF.webp" width="60" alt="Entity Framework"/><br>Entity Framework</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" alt="SQL Server"/><br>SQL Server</td>
-    <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=react" width="60" alt="React"/>
-  <br>React
-</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="60" alt="React"/><br>React</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" alt="TypeScript"/><br>TypeScript</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript"/><br>JavaScript</td>
     <td align="center" width="120"><img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif" width="60" alt="HTML5"/><br>HTML5</td>
@@ -38,20 +35,13 @@
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS"/><br>CSS</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="60" alt="Tailwind"/><br>Tailwind</td>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="GitHub"/><br>GitHub</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" alt="REST API"/><br>REST API</td>
     <td align="center" width="120"><img src="http://jwt.io/img/icon.svg" width="60" alt="JWT"/><br>JWT</td>
     <td align="center" width="120"><img src="./Swagger Logo.png" width="60" alt="Swagger"/><br>Swagger</td>
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" alt="Postman"/><br>Postman</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker"/><br>Docker</td>
-     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/><br>Git</td>
-  </tr>
-
-  <!-- Row 3 -->
-  <tr>
-    
-    
-   
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="GitHub"/><br>GitHub</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/><br>Git</td>
   </tr>
 </table>
 
