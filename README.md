@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samadev-45&show_icons=true&theme=tokyonight"
        width="45%" />
-  <img src="https://leetcard.jacoblin.cool/samadev_a45?theme=gruvbox&font=ABeeZee"
+  <img src="https://leetcard.jacoblin.cool/samadev_a45?theme=dracula&font=ABeeZee"
        width="45%" />
 </p>
 
