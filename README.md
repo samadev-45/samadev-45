@@ -3,7 +3,7 @@
 
 ### Full-Stack Developer ✨ 
 
-🚀 Full-stack developer crafting React frontends and scalable .NET backends
+🚀 Full-stack developer crafting React frontends and scalable .NET backends.
 
 🧩 Focused on clean architecture, performance, and real-world systems — not toy app
 🔬 Constantly learning by building, breaking, and refactoring
