@@ -7,7 +7,7 @@
 
 🧩 Focused on clean architecture, performance, and real-world systems — not toy app
 🔬 Constantly learning by building, breaking, and refactoring
-📬 Let’s talk products, problems, or opportunities:
+📬 Let’s talk products, problems,or opportunities:
 <a href="mailto:samadev45@gmail.com">samadev45@gmail.com
 </a>
 
