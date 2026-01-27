@@ -11,7 +11,7 @@
 <a href="mailto:samadev45@gmail.com">samadev45@gmail.com
 </a>
 
-⚙️ Fun fact: I refactor code more than I write it — because bad design is expensive
+⚙️ Fun fact: I refactor code more than I write it— because bad design is expensive
 
 ---
 
