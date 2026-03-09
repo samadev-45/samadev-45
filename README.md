@@ -6,7 +6,7 @@
 🚀 Full-stack developer crafting React  frontends and scalable  .NET backends.
  
 🧩 Focused on clean architecture, performance, and real-world systems — not toy app <br/>
-🔬 Constantly learning by building, breaking, and refactoring
+🔬 Constantly learning by building, breaking, and refactoring <br/>
 📬 Let’s talk products, problems,or opportunities:
 <a href="mailto:samadev45@gmail.com">samadev45@gmail.com
 </a>
