@@ -1,7 +1,7 @@
  # Hi 👋, I'm Samadev A
 
 
-### Full-Stack Developer ✨ 
+### Full-Stack Developer  ✨ 
 
 🚀 Full-stack developer crafting React  frontends and scalable .NET backends.
  
